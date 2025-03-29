@@ -1,85 +1,38 @@
-# Resolvendo Códigos em Python com o Github Copilot
+# Desafio: Resolvendo Códigos em Python com o GitHub Copilot
 
-Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
+Este repositório faz parte do desafio do bootcamp **Formação GitHub Certification** na plataforma DIO.
 
-### Atenção ⚠️ 
+Aqui você encontrará resoluções de algoritmos simples em Python, com o objetivo de praticar a utilização de ferramentas de IA como o GitHub Copilot para auxiliar na programação.
 
-Não tem acesso ao Github Copilot?! Não tem problema!! 
-Que tal utilizar o [ChatGPT](https://chat.openai.com/) como seu copiloto de estudos ??
+## Conteúdo
 
-## 1 - Concatenando Dados 🐾
+Cada exercício está organizado em um arquivo separado:
 
-Descrição:
-Vamos receber dois dados diferentes do usuário e concatena-los em uma única string?! 
+1. **Concatenando Dados** – Recebe dois dados do usuário e os concatena.
+2. **Repetindo Textos** – Recebe uma string e um número, e repete o texto conforme indicado.
+3. **Operações Matemáticas Simples** – Realiza uma operação simples entre dois números.
+4. **Verificando Números Pares e Ímpares** – Verifica se um número é par ou ímpar.
+5. **Calculando Média de Notas** – Calcula a média entre três notas fornecidas.
+6. **Verificando Palíndromos** – Verifica se uma palavra é um palíndromo.
+7. **Gerador de Senhas Seguras** – Gera senhas aleatórias com letras, números e símbolos.
+8. **Contador de Palavras** – Conta quantas palavras existem em um texto fornecido.
+9. **Calculadora de Fatorial com Recursão** – Calcula o fatorial de um número.
+10. **Verificador de Números Primos** – Verifica se um número é primo.
 
-O que aprenderemos?
+## Tecnologias
 
-* Manipulação de Strings (string)
-* Concatenação
-* Entrada de dados
-* Utilização eficiente do Github Copilot
+- Python 3
+- GitHub Copilot (ou alternativa como ChatGPT)
 
-<br>
+## Objetivo
 
-## 2 - Repetindo Textos ✏️
+O objetivo é praticar:
+- Manipulação de strings e números
+- Entrada e saída de dados
+- Operadores, condicionais e estruturas de repetição
+- Funções e recursividade
+- Uso de ferramentas de IA como copiloto de programação
 
-Descrição:
-Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado. 
-
-O que aprenderemos?
-
-* Manipulação de Strings (string)
-* Números Inteiros (int)
-* Múltiplas repetições
-* Entrada de dados
-* Aproveitar as sugestões do Github Copilot
-
-<br>
-
-## 3 - Operações Matemáticas Simples 📐
-
-Descrição:
-Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
-
-O que aprenderemos?
-
-* Operações Matemáticas Básicas
-* Entrada de dados
-* Utilização eficiente do Github Copilot
-
-<br>
-
-## 4 - Verificando Números Pares e Ímpares 🧮
-
-Descrição: Como entrada, receba um número inteiro e verifique se ele é par ou ímpar. 
-Uma dica é: Utilize condicionais para realizar a verificação e, se possível, faça uso do Github Copilot(ou outra IA) para otimizar a estrutura do código.
-
-O que aprenderemos?
-* Utilização de condicionais em Python (if, else) para realizar verificações.
-* Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
-* Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
-
-
-<br>
-
-## 5 - Calculando Média de Notas 📚
-
-Descrição: Agora vamos calcular a média de três notas fornecidas na entrada do usuário. 
-Uma dica é: Utilize operadores aritméticos para realizar o cálculo da média.
-
-O que aprenderemos?
-* Uso de variáveis para armazenar dados fornecidos pelo usuário.
-* Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
-* Prática na solicitação e manipulação de entrada do usuário.
-
-<br>
-
-## 6 - Verificando Palíndromos 🔄
-
-Descrição: Vamos testar se uma palavra é um palíndromo?! 
-Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.
-
-O que aprenderemos?
-* Manipulação de strings em Python, especialmente invertendo uma string.
-* Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
-* Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
+---
+### Eduardo O. Lentz
+💻 Portfolio | 🔗 LinkedIn | 📂 GitHub | 📝 Medium | 📸 Instagram
